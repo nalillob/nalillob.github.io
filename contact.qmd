@@ -4,6 +4,6 @@ title: "Contact"
 
 # Contact
 
-You can contact me by email.
+You can contact me by email at [nicolas.lillo@gmail.com](mailto:nicolas.lillo@gmail.com)
 
 GitHub: [nalillob](https://github.com/nalillob)
