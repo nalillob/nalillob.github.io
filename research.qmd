@@ -1,1 +1,7 @@
----title: "Research"---# ResearchThis page will contain my working papers, publications, policy reports, and ongoing research projects.
+---
+title: "Research"
+---
+
+# Research
+
+This page will contain my working papers, publications, policy reports, and ongoing research projects.
