@@ -1,0 +1,21 @@
+---
+title: "Home"
+---
+
+# Nicolás A. Lillo Bustos
+
+Applied microeconomist based in Chile.
+
+My work focuses on productivity, industrial policy, firm dynamics, natural-resource economics, and empirical policy analysis.
+
+## Research interests
+
+- Productivity and misallocation
+- Industrial policy
+- Firm dynamics
+- Fisheries and natural-resource economics
+- Survey and administrative data
+
+## Welcome
+
+This website will host information about my research, projects, and professional work.
